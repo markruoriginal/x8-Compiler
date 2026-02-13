@@ -1,0 +1,1 @@
+---> https://github.com/markruoriginal/x8-Compiler/releases/tag/1.0.0 <---
