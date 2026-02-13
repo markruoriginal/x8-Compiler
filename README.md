@@ -16,6 +16,7 @@ Zero-Dependency: На выходе вы получаете чистый бина
 Технология: Nuitka-driven C++ generation.
 Платформы: Windows (x64), Linux.
 
+The fastest Python 3.12 compiler based on Nuitka!
 
 
 
